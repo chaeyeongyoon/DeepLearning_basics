@@ -1,4 +1,6 @@
 # DeepLearning_basics
+----------------------
+ You can read some Theory explanation on my blog : https://chang-aistory.tistory.com/
 ------
 ## Reference  
 * code: https://github.com/hunkim/DeepLearningZeroToAll  
